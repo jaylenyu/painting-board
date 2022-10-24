@@ -1,0 +1,14 @@
+body {
+    background-color:blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    height: 600px;
+    width: 600px;
+    background-color: wheat;
+    border: solid 2px coral;
+    border-radius: 2px;
+}
