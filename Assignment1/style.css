@@ -8,7 +8,7 @@ body {
 canvas {
     height: 600px;
     width: 600px;
-    background-color: wheat;
-    border: solid 2px coral;
+    border: solid 2px black;
     border-radius: 2px;
+    background-color: white;
 }
